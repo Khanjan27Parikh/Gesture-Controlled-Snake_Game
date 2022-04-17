@@ -1,0 +1,3 @@
+# Gesture-Controlled-Snake_Game
+
+Everyone remembers Snake, the very simple but highly addictive game that came preloaded on our old Nokia mobile phones - the objective was to maneuver a ‘snake’ (just a line of pixels that acted as its own primary obstacle and kept growing as the game went on) in a bordered plane in pursuit of items to ‘eat’ (more pixels). In this session, we’ll show you not only how to develop the game anew in Python using Pygame, but also add a unique twist: we’ll control it solely with gestures without the need for tactile input of any sort. To do this, we’ll build upon computer vision techniques (via OpenCV and MediaPipe) we used in earlier sessions for hand pose estimation and gesture control.
